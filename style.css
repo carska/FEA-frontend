@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-feb-12, 20:19:46
+    Author     : carlskanshed
+*/
+.container {
+    text-align: center;
+    margin: 1%;
+    padding: 2%;
+    align-content: center;
+    background-color: white;
+}
+
+.greenhead {
+    background-color: MediumSeaGreen;
+}
+
+.searchfield {
+    border: solid green;
+}
+
+input {
+    width: 85%;
+    vertical-align: middle;
+    height: 100%;
+    font-size: 20px;
+    border-style: none;
+}
+
+img {
+    width: 1.5em;
+    vertical-align: middle;
+    float: right;
+    padding-right: 0.5em;
+
+}
+
+.table {
+    border: solid green;
+    margin: 0px auto;
+    padding: 1%;
+    margin-top: 1%;
+}
+td {
+    width: 20em;
+}
+
+
+.tableheader {
+    width: 40%;
+}
+
+body {
+    background-color: whitesmoke;
+}
